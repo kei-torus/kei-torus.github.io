@@ -4,17 +4,14 @@ project:
 website:
   description: "A blog built with Quarto"
   site-url: "https://kei-torus.github.io" 
-  title: "my-blog"
+  title: "kei-torus's blog"
   navbar:
     right:
       - about.qmd
-      - icon: github
-        href: https://github.com/
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: sandstone
+    date-format: "YYYY-MM-DD"
     css: styles.css
 
 execute:

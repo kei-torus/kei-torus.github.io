@@ -2,10 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/post-with-code/index.html",
       "/posts/2025/2025123_post-with-code/index.html",
-      "/posts/about_this_blog/index.html",
-      "/posts/welcome/index.html"
+      "/posts/about_this_blog/index.html"
     ]
   }
 ]

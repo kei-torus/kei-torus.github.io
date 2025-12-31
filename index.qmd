@@ -1,5 +1,5 @@
 ---
-title: "my-blog"
+title: ""
 listing:
   contents: posts
   feed: true
@@ -8,8 +8,14 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: false
+  fields: [date, title, description, categories, image] # author を除外
+  date-format: "YYYY-MM-DD"
 page-layout: full
 title-block-banner: true
 ---
 
+ここでブログの紹介を書くことができます。
+例えば、「このブログでは日々の技術的な学びや、趣味の読書について発信しています。」といった具合です。
+[ブログの趣旨について](posts\about-this-blog/index.qmd) をご覧ください。
 
+---

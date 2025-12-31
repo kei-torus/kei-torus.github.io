@@ -1,17 +1,37 @@
 ---
-title: "About Me"
-image: profile.jpg # 自分の写真画像をフォルダに入れて、そのファイル名を書く
+title: "kei-torus"
+image: kei-torus.png
 about:
-  template: jolla # 他に 'trestles', 'solana', 'marquee', 'broadside' などが選べます
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/あなたのID
-    - icon: github
-      text: Github
-      href: https://github.com/kei-torus
+  template: trestles
 ---
 
-こんにちは！Kei Torusです。
-データ分析と技術が好きで、このブログを立ち上げました。
-こんにちはテストです。
+# 経歴
+
+- 地方国立大学数学科の修士課程を修了
+- （1社目）公立中学校の教員
+- （2社目）SES企業でデータアナリスト
+- （3社目）教育系企業でアナリスト・CS-Ops
+
+# 数学について
+
+数学が好きで今でも大学数学を気まぐれで勉強しています。大学時代は幾何学屋さんで専門は多様体とその一般化です。
+ちなみにトーラスが好きなので「kei-torus」という名前にしました。
+
+# データ分析について
+
+マーケティング部の人間なので、エンジニアリングについては素人です。データの抽出・分析・可視化を経て営業・経営層の意思決定につなげるお仕事をしています。機械学習は実務では使わずあまり分かりません（社内にはデータサイエンティストの方がいてそちらの領域となる）。AIはもっぱら活用させていただく側です。
+
+- スキルや資格
+  - SQL
+  - BIツール
+    - Tableau
+    - Power BI
+  - Python
+  - github
+  - 統計検定2級
+  - 簿記2級
+
+# 教育について
+
+元々学校教員をしていたので、教育に興味があります。学校の先生のお役に立てることがしたいと思っています。
+

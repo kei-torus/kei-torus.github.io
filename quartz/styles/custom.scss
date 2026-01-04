@@ -1,3 +1,8 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// ホームページ（index.md）のタイトル下の日付・読了時間を非表示にする
+[data-slug="index"] .content-meta {
+  display: none !important;
+}
